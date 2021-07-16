@@ -16,7 +16,7 @@ body {
     display: flex;
     flex-direction: row;
     flex-grow: 0;
-    width: 80%;
+    max-width: 1400px;
    /* border: 1px solid red;*/
     border-radius: 10px;
     overflow: hidden;
