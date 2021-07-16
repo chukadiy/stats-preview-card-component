@@ -46,7 +46,7 @@ Users should be able to:
 
 ## My process
 
-I could use any tools I know to help me complete the challenge but I choose to build with the tools below
+I could use any tools I know to help me complete the challenge, but I choose to build with the tools below
 
 ### Built with
 
